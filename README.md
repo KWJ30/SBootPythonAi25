@@ -23,4 +23,6 @@ FastAPI는 ASGI 표준을 따르는 웹 프레임 워크. FastAPI 애플리케�
 
 main.py 실행 Terminal에서 D:\pythonWorkSpace> uvicorn main:app --reload --port 8001 (위치확인)
 
+
+
 ![image](https://github.com/user-attachments/assets/a4618419-4a2d-423e-bf8d-c77b705e4bf4)
