@@ -22,3 +22,5 @@ WebSocket, gRPC와 같은 다른 프로토콜로 지원 유연성 : ASGI 애플�
 FastAPI는 ASGI 표준을 따르는 웹 프레임 워크. FastAPI 애플리케이션은 비동기 처리를 기본으로 하며, Uvicorn과 같은 ASGI 서버를 사용하여 높은 성능을 제공 FastAPI 서버 실행
 
 main.py 실행 Terminal에서 D:\pythonWorkSpace> uvicorn main:app --reload --port 8001 (위치확인)
+
+![image](https://github.com/user-attachments/assets/a4618419-4a2d-423e-bf8d-c77b705e4bf4)
