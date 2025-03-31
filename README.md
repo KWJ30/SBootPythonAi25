@@ -5,7 +5,7 @@
 
 ![image](https://github.com/user-attachments/assets/31527696-f3cd-4d54-8b59-a57185bcac41)
 
-iptime ipcam을 세팅 -> reset 후 ip 휴대폰으로 연결.
+iptime ipcam을 세팅 -> reset 후 ip 휴대폰으로 연결 \n
 vms 세팅 -> rtsp 프로토콜 활성화
 
 개발환경구축
